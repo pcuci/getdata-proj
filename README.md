@@ -1,7 +1,7 @@
 Activity Data
 ===================================
 
-1. Download the "run_analysis.R" file  
+1. Download the `run_analysis.R` file  
 2. Set your working directory to where you downloaded the file  
 3. Run the code   
 4. Read in the file produced from the code using read.table("activitydata.txt")  
