@@ -12,13 +12,13 @@ The data was taken from a study conducted by Jorge L. et al. called "Human Activ
 ### Raw Data
 Their data was obtained from carrying out experiments with 30 participants performing six different activities while wearing a smartphone. The data was randomly split into two sets, where 70% of the volunteers was selected for generating the training data and 30% the test data. Using the phone's embedded accelerometer and gyroscope, they captured 3-axial linear acceleration and 3-axial angular velocity at a constant rate of 50Hz.  
 
-- `subject_test.txt`: contains the participant number (1-30) for the test data  
-- `y_test.txt`: contains the activity number (1-6) for the test data  
-- `X_test.txt`: contains the vector information (1-531) for the test data  
-- `subject_training.txt`: contains the participant number (1-30) for the training data  
-- `y_training.txt`: contains the activity number (1-6) for the training data  
-- `X_trainingt.txt`: contains the vector information (1-531) for the training data  
-- `features.txt`: contains the descriptive names of activities
+- `subject_test.txt` contains the participant number (1-30) for the test data  
+- `y_test.txt` contains the activity number (1-6) for the test data  
+- `X_test.txt` contains the vector information (1-531) for the test data  
+- `subject_training.txt` contains the participant number (1-30) for the training data  
+- `y_training.txt` contains the activity number (1-6) for the training data  
+- `X_trainingt.txt` contains the vector information (1-531) for the training data  
+- `features.txt` contains the descriptive names of activities
 
 For more detailed information on the original data set consult the `README.txt` file included in the original project.
  
